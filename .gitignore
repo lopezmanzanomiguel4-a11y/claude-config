@@ -1,0 +1,15 @@
+# Secrets : ne jamais pousser sur GitHub
+.env
+.env.*
+*.key
+
+# Sauvegardes et fichiers temporaires
+*.bak-*
+*.log
+*.tmp
+
+# LaTeX
+*.aux
+*.out
+*.toc
+*.synctex.gz
